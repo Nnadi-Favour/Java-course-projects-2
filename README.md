@@ -1,4 +1,3 @@
-# Java-course-projects-2
 # Java Course Projects 2
 
 This repository is a continuation of my previous **Java Course Projects** repository, featuring additional Java applications and practical projects developed as I continue building my programming skills.
